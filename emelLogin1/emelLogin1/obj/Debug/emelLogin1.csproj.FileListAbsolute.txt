@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\bin\Debug\emelLogin1.exe.config
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\bin\Debug\emelLogin1.exe
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\bin\Debug\emelLogin1.pdb
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.Form1.resources
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.Properties.Resources.resources
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.exe
+C:\Users\ACER\source\repos\emelLogin1\emelLogin1\obj\Debug\emelLogin1.pdb
